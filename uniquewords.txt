@@ -1,0 +1,3 @@
+pg100.txt	Total: 486167	Unique: 29308
+pg31100.txt	Total: 368409	Unique: 16115
+pg3200.txt	Total: 1357410	Unique: 58690
